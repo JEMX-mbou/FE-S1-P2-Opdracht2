@@ -1,9 +1,11 @@
 Opdrachtlink: https://mboutrecht.onderwijsonline.nl/elearning/lesson/zD8XLkD2
 
 =====================================
+
 In te leveren/te committen:
 - index.html
 - styling.css
+
 =====================================
 
 1. Clone de GitHub ClassRoom repository in de FE-S1-P2 map. 
